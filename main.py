@@ -16,7 +16,7 @@ http: - localhost/...
 http://localhost:1024
 porta 80 é padrao para web.
 
-debug=True: se tiver que trocar alguma coisa o codigo, ele já carregar auto.
+debug=True: se tiver que trocar alguma coisa do codigo, ele já carregar auto.
 
 ctrl+j : abre o terminal dentro do visual studio e esconde ou fecha o terminal. o terminal fica rodando o servidor mesmo se fechado
 
